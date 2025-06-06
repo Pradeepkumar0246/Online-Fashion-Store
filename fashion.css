@@ -1,0 +1,55 @@
+body {
+  padding-top: 70px;
+}
+.grid-img {
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+.grid-img:hover {
+  transform: scale(1.05);
+}
+.carousel-item img {
+  height: 400px;
+  object-fit: cover;
+}
+h2 {
+  font-weight: 600;
+  color: #222;
+  text-transform: uppercase;
+}
+.card {
+  border: none;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+.card:hover {
+  transform: scale(1.03);
+}
+.card-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+.card-text {
+  font-size: 0.95rem;
+  color: #555;
+}
+.carousel-caption h2 {
+  background-color: rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+}
+.custom-carousel-btn {
+  background-color: white;
+  border: none;
+  border-radius: 50%;
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

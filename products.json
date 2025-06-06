@@ -1,0 +1,274 @@
+{
+  "catomen": [
+    {
+      "img": "./images/men1.jpg",
+      "desc": "Comfortable cotton shirt\nPerfect for summer",
+      "price": 299
+    },
+    {
+      "img": "./images/men2.jpg",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/men3.jpg",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/men4.webp",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/men5.jpg",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/men6.jpg",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/men7.jpg",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/men8.png",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/men9.jpg",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    }
+  ],
+  "catowomen": [ {
+      "img": "./images/women1.jpg",
+      "desc": "Comfortable cotton shirt\nPerfect for winter",
+      "price": 299
+    },
+    {
+      "img": "./images/women2.jpg",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/women3.jpg",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/women4.jpg",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/women5.jpg",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/women6.jpg",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/women7.jpg",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/women8.jpg",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/women9.jpg",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    } ],
+  "catokid": [ {
+      "img": "./images/kid1.jpg",
+      "desc": "Comfortable cotton shirt for kit\nPerfect for summer",
+      "price": 299
+    },
+    {
+      "img": "./images/kid2.webp",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/kid3.webp",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/kid4.webp",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/kid5.webp",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/kid6.png",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/kid7.jpg",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/kid8.jpeg",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/kid9.jpeg",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    } ],
+  "catowatch": [ {
+      "img": "./images/watch1.jpg",
+      "desc": "Comfortable Watch\nPerfect for summer",
+      "price": 299
+    },
+    {
+      "img": "./images/watch2.webp",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/watch3.jpeg",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/watch4.webp",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/watch5.jpg",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/watch6.jpg",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/watch7.webp",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/watch8.webp",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/watch9.webp",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    } ],
+  "catohome": [ {
+      "img": "./images/home1.jpg",
+      "desc": "Comfortable home\nPerfect for summer",
+      "price": 299
+    },
+    {
+      "img": "./images/home2.jpg",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/home3.jpg",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/home4.jpg",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/home5.jpg",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/home6.jpg",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/home7.webp",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/home8.jpg",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/home9.webp",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    } ],
+  "catostyle": [ {
+      "img": "./images/shine1.webp",
+      "desc": "Comfortable style\nPerfect for summer",
+      "price": 299
+    },
+    {
+      "img": "./images/shine2.webp",
+      "desc": "Denim jeans\nSlim fit style",
+      "price": 299
+    },
+    {
+      "img": "./images/shine3.jpg",
+      "desc": "Casual jacket\nAll-weather use",
+      "price": 299
+    },
+    {
+      "img": "./images/shine4.jpeg",
+      "desc": "Formal shirt\nOffice wear",
+      "price": 299
+    },
+    {
+      "img": "./images/shine5.jpg",
+      "desc": "Track pants\nBest for gym",
+      "price": 299
+    },
+    {
+      "img": "./images/shine6.webp",
+      "desc": "Stylish T-shirt\nWeekend special",
+      "price": 299
+    },
+    {
+      "img": "./images/shine7.jpg",
+      "desc": "Ethnic kurta\nTraditional look",
+      "price": 299
+    },
+    {
+      "img": "./images/shine8.webp",
+      "desc": "Sweatshirt\nWinter ready",
+      "price": 299
+    },
+    {
+      "img": "./images/shine9.avif",
+      "desc": "Blazer\nParty wear",
+      "price": 299
+    } ]
+}
