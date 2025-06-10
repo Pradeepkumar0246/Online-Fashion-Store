@@ -1,6 +1,5 @@
 // Load cart from localStorage
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
-
 function loadProducts(category) {
   fetch("products.json")
     .then(res => res.json())
@@ -27,7 +26,7 @@ function loadProducts(category) {
 
 function addToCart(item) {
   cart.push(item);
-  localStorage.setItem("cart", JSON.stringify(cart)); // Save to localStorage
+  localStorage.setItem("cart", JSON.stringify(cart)); 
   alert("Added to cart");
 }
 
@@ -47,7 +46,7 @@ function viewCart() {
 
 function placeOrder() {
   cart = [];
-  localStorage.removeItem("cart"); // Clear localStorage
+  localStorage.removeItem("cart"); 
   document.getElementById("cart-table").innerHTML = "";
   alert("Your order was placed successfully!");
 }
