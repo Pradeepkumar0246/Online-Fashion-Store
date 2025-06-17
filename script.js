@@ -1,4 +1,3 @@
-// Load cart from localStorage
 let cart = JSON.parse(localStorage.getItem("cart")) || [];
 function loadProducts(category) {
   fetch("products.json")
